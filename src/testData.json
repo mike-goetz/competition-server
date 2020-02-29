@@ -1,0 +1,139 @@
+[
+  {
+    "id": "1",
+    "active": true,
+    "deleted": false,
+    "abbreviation": "IAAP",
+    "name": "Internationaler Allgäu Alpen Pokal",
+    "seasons": [
+      {
+        "id": "2",
+        "active": true,
+        "deleted": false,
+        "name": "2020",
+        "leagues": [
+          {
+            "id": "1",
+            "active": true,
+            "deleted": false,
+            "sort": 1,
+            "name": "Klasse 1",
+            "shortName": "K1",
+            "description": "Karts, Jugendklasse - Spikes bis 10 mm",
+            "options": {
+              "startFee": {
+                "value": 10,
+                "currency": "€"
+              },
+              "skierAllowed": false,
+              "coDriverRequired": false
+            }
+          },
+          {
+            "id": "2",
+            "active": true,
+            "deleted": false,
+            "sort": 2,
+            "name": "Klasse 2",
+            "shortName": "K2",
+            "description": "Rennkarts bis 400ccm - Spikes bis 10 mm",
+            "options": {
+              "startFee": {
+                "value": 15,
+                "currency": "€"
+              },
+              "skierAllowed": false,
+              "coDriverRequired": false
+            }
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "active": false,
+        "deleted": false,
+        "name": "2019",
+        "leagues": [
+          {
+            "id": "1",
+            "active": true,
+            "deleted": false,
+            "sort": 1,
+            "name": "Klasse 1",
+            "shortName": "K1",
+            "description": "Karts, Jugendklasse - Spikes bis 10 mm",
+            "options": {
+              "startFee": {
+                "value": 10,
+                "currency": "€"
+              },
+              "skierAllowed": false,
+              "coDriverRequired": false
+            }
+          },
+          {
+            "id": "2",
+            "active": true,
+            "deleted": false,
+            "sort": 2,
+            "name": "Klasse 2",
+            "shortName": "K2",
+            "description": "Rennkarts bis 400ccm - Spikes bis 10 mm",
+            "options": {
+              "startFee": {
+                "value": 15,
+                "currency": "€"
+              },
+              "skierAllowed": false,
+              "coDriverRequired": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "active": true,
+    "deleted": false,
+    "abbreviation": "Coding",
+    "name": "Coding Challenges",
+    "seasons": [
+      {
+        "id": "4",
+        "active": true,
+        "deleted": false,
+        "name": "2020",
+        "leagues": [
+          {
+            "id": "3",
+            "active": true,
+            "deleted": false,
+            "sort": 1,
+            "name": "Java B1",
+            "shortName": "B1",
+            "description": "Junior Java Developer"
+          },
+          {
+            "id": "4",
+            "active": true,
+            "deleted": false,
+            "sort": 2,
+            "name": "Java J1",
+            "shortName": "J1",
+            "description": "Java Developer"
+          },
+          {
+            "id": "5",
+            "active": true,
+            "deleted": false,
+            "sort": 3,
+            "name": "Java E1",
+            "shortName": "E1",
+            "description": "Senior Java Developer"
+          }
+        ]
+      }
+    ]
+  }
+]
